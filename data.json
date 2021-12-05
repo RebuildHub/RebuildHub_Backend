@@ -1,0 +1,118 @@
+[
+    {
+        "name": "TCS",
+        "email": "admin@tcs.com",
+        "donations": {
+            "PAPERS": {
+                "Newspapers": {
+                    "target": 400,
+                    "fullfilled": 100
+                },
+                "Books": {
+                    "target": 600,
+                    "fullfilled": 200
+                },
+                "Magazines": {
+                    "target": 700,
+                    "fullfilled": 400
+                }
+            },
+            "METALS": {
+                "Aluminium": {
+                    "target": 400,
+                    "fullfilled": 100
+                },
+                "Zinc": {
+                    "target": 400,
+                    "fullfilled": 100
+                },
+                "Steel": {
+                    "target": 400,
+                    "fullfilled": 100
+                }
+            },
+            "PLASTICS": {
+                "Plasticbags": {
+                    "target": 400,
+                    "fullfilled": 100
+                },
+                "Polythene": {
+                    "target": 900,
+                    "fullfilled": 100
+                }
+            },
+            "E-WASTE": {
+                "Mobile": {
+                    "target": 400,
+                    "fullfilled": 100
+                },
+                "Tv": {
+                    "target": 400,
+                    "fullfilled": 100
+                },
+                "Laptop": {
+                    "target": 400,
+                    "fullfilled": 100
+                }
+            }
+        }
+    },
+    {
+        "name": "Infosys",
+        "email": "admin@infosys.com",
+        "donations": {
+            "PAPERS": {
+                "Newspapers": {
+                    "target": 400,
+                    "fullfilled": 100
+                },
+                "Books": {
+                    "target": 600,
+                    "fullfilled": 200
+                },
+                "Magazines": {
+                    "target": 700,
+                    "fullfilled": 400
+                }
+            },
+            "METALS": {
+                "Aluminium": {
+                    "target": 400,
+                    "fullfilled": 100
+                },
+                "Zinc": {
+                    "target": 400,
+                    "fullfilled": 100
+                },
+                "Steel": {
+                    "target": 400,
+                    "fullfilled": 100
+                }
+            },
+            "PLASTICS": {
+                "Plasticbags": {
+                    "target": 400,
+                    "fullfilled": 100
+                },
+                "Polythene": {
+                    "target": 900,
+                    "fullfilled": 100
+                }
+            },
+            "E-WASTE": {
+                "Mobile": {
+                    "target": 400,
+                    "fullfilled": 100
+                },
+                "Tv": {
+                    "target": 400,
+                    "fullfilled": 100
+                },
+                "Laptop": {
+                    "target": 400,
+                    "fullfilled": 100
+                }
+            }
+        }
+    }
+]

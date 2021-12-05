@@ -1,0 +1,4 @@
+{
+  "MONGO_URI": "mongodb+srv://gaurav:gaurav123@cluster0.ffhnw.mongodb.net/rebuildDB?retryWrites=true&w=majority",
+  "jwtSecret" : "Secret"
+}
